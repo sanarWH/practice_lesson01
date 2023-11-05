@@ -3,5 +3,5 @@ package lesson01
 fun main(){
 
     val numberOfOrder = 1
-    val notificationThanks = "Спасибо за покупку!"
+    val notificationThanks = "Спасибо за покупку!!"
 }
