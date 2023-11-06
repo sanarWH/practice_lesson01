@@ -8,7 +8,7 @@ fun main() {
     hour = "10"
     minute = "55"
 
-    println("Год полета Юрия Гагарина в космос: $year")
+    println("Год полета Юрия Гагарина в космос:  $year")
     print("Время посадки Юрия Гагарина на землю $hour:")
     println("$minute")
 }
